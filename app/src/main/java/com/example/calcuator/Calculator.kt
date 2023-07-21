@@ -1,4 +1,4 @@
-package com.example.calculator
+package com.example.calcuator
 
 
 import androidx.compose.foundation.background
@@ -21,10 +21,10 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.calculator.ui.theme.black
-import com.example.calculator.ui.theme.darkgrey
-import com.example.calculator.ui.theme.lightgrey
-import com.example.calculator.ui.theme.orange
+import com.example.calcuator.ui.theme.black
+import com.example.calcuator.ui.theme.darkgrey
+import com.example.calcuator.ui.theme.lightgrey
+import com.example.calcuator.ui.theme.orange
 
 @Composable
 fun Calculator(

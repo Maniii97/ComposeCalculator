@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.calculator'
+    namespace 'com.example.calcuator'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.calculator"
+        applicationId "com.example.calcuator"
         minSdk 29
         targetSdk 33
         versionCode 1

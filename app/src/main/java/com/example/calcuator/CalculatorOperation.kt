@@ -1,4 +1,4 @@
-package com.example.calculator
+package com.example.calcuator
 
 sealed class CalculatorOperation(val symbol : String){
     object Add : CalculatorOperation("+")

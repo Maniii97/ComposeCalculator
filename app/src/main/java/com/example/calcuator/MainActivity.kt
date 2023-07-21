@@ -1,4 +1,4 @@
-package com.example.calculator
+package com.example.calcuator
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -9,8 +9,8 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.example.calculator.ui.theme.CalcuatorTheme
-import com.example.calculator.ui.theme.black
+import com.example.calcuator.ui.theme.CalcuatorTheme
+import com.example.calcuator.ui.theme.black
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
